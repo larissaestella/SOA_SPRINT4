@@ -63,8 +63,8 @@ automática via Swagger e cobertura de testes unitários e de integração.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/larissaestella/SOA_e_WebServices-Sprint_3.git
-cd SOA_e_WebServices-Sprint_3
+git clone https://github.com/larissaestella/SOA_SPRINT4.git
+cd SOA_SPRINT4
 ```
 
 ### 2. Execute a aplicação
